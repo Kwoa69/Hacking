@@ -1,0 +1,5 @@
+# Hacking
+Virus compilé sous Ubuntu 21.04
+
+NE PAS TELECHARGER SANS MON ACCORD !
+POUR BUT EDUCATIF !
