@@ -5,7 +5,7 @@ POUR BUT EDUCATIF !
 
 Requis : Python 
 
-sudo apt install python3.10
+sudo apt install python3 python3-pip
 
 commande :
 
