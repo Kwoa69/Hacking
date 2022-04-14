@@ -9,4 +9,4 @@ sudo apt install python3.10
 
 commande :
 
-sudo python VirusUbuntu20.py
+sudo python3 lmZ.py
